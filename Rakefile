@@ -14,6 +14,7 @@ task :default do
       data = open("https://rubygems.org/api/v1/gems/#{item}.yaml").read
       File.open("_data/#{type}/#{item}.yml", "wb") { |file| file.puts data }
       rescue OpenURI::HTTPError
+        puts "#{item} does not seem to exist at rubygems.org"
         next
       end
     end
