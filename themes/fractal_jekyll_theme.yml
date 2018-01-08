@@ -1,0 +1,28 @@
+---
+name: fractal_jekyll_theme
+downloads: 1587
+version: '0.2'
+version_downloads: 481
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Fractal" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: 511f5b4b8eaf09dde54819d76dec05079b30fa2f7dcfe2dad7ecbe5525f5bf88
+project_uri: https://rubygems.org/gems/fractal_jekyll_theme
+gem_uri: https://rubygems.org/gems/fractal_jekyll_theme-0.2.gem
+homepage_uri: https://gitlab.com/andrewbanchich/fractal-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/fractal_jekyll_theme/0.2
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  runtime: []

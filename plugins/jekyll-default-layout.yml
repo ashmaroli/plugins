@@ -1,0 +1,30 @@
+---
+name: jekyll-default-layout
+downloads: 235434
+version: 0.1.4
+version_downloads: 233948
+platform: ruby
+authors: Ben Balter
+info: Silently sets default layouts for Jekyll pages and posts
+licenses:
+- MIT
+metadata: {}
+sha: 7d128fc8972353370cdf22beb1610434421c732d707ba4c77513d65941bb3f01
+project_uri: https://rubygems.org/gems/jekyll-default-layout
+gem_uri: https://rubygems.org/gems/jekyll-default-layout-0.1.4.gem
+homepage_uri: https://github.com/benbalter/jekyll-default-layout
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-default-layout/0.1.4
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: rspec
+    requirements: "~> 3.5"
+  - name: rubocop
+    requirements: "~> 0.43"
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.0"

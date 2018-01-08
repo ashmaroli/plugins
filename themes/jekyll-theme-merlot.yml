@@ -1,0 +1,28 @@
+---
+name: jekyll-theme-merlot
+downloads: 237647
+version: 0.1.0
+version_downloads: 84462
+platform: ruby
+authors: Cameron McEfee, GitHub, Inc.
+info: Merlot is a Jekyll theme for GitHub Pages
+licenses:
+- CC0-1.0
+metadata: {}
+sha: 36761142fe5557260d26f46f4e4d494fc01ad04372725da2f9ff3a9ab1e6f5c2
+project_uri: https://rubygems.org/gems/jekyll-theme-merlot
+gem_uri: https://rubygems.org/gems/jekyll-theme-merlot-0.1.0.gem
+homepage_uri: https://github.com/pages-themes/merlot
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-theme-merlot/0.1.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.5"
+  - name: jekyll-seo-tag
+    requirements: "~> 2.0"

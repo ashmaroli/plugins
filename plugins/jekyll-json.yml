@@ -1,0 +1,24 @@
+---
+name: jekyll-json
+downloads: 1594
+version: 0.0.1
+version_downloads: 1583
+platform: ruby
+authors: Ben Patterson
+info: serve json and csv files on jekyll
+licenses:
+- MIT
+metadata: {}
+sha: 5fbb68a435bf69901daa74b640a096c0c30a56479069502e20a2d45753cfe477
+project_uri: https://rubygems.org/gems/jekyll-json
+gem_uri: https://rubygems.org/gems/jekyll-json-0.0.1.gem
+homepage_uri: https://github.com/BenRuns/jekyll-json
+wiki_uri: https://github.com/BenRuns/jekyll-json/wiki
+documentation_uri: https://github.com/BenRuns/jekyll-json/blob/development/README.md
+mailing_list_uri: ''
+source_code_uri: https://github.com/BenRuns/jekyll-json
+bug_tracker_uri: https://github.com/BenRuns/jekyll-json/issues
+changelog_uri: 
+dependencies:
+  development: []
+  runtime: []

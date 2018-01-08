@@ -1,0 +1,28 @@
+---
+name: jekyll-geocode
+downloads: 950
+version: '0.2'
+version_downloads: 573
+platform: ruby
+authors: Bertrand Keller
+info: "    Geocode addresses from a YAML for drawing maps (with https://nominatim.openstreetmap.org)\n"
+licenses:
+- MIT
+metadata: {}
+sha: 2d0684c7c85a6cc8d12636acc4c9f563f689edc6ce379a44dfc1119fc12684f7
+project_uri: https://rubygems.org/gems/jekyll-geocode
+gem_uri: https://rubygems.org/gems/jekyll-geocode-0.2.gem
+homepage_uri: https://bertrandkeller.github.io/jekyll-geocode/
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-geocode/0.2
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  runtime:
+  - name: jekyll
+    requirements: "< 4.0, >= 3.0"

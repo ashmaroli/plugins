@@ -1,0 +1,30 @@
+---
+name: alpha_jekyll_theme
+downloads: 1047
+version: 0.1.1
+version_downloads: 613
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Alpha" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: c17f73164a0ff2ce70ab6d63492e43de16bc51a22135307e0fb68435e7b4733a
+project_uri: https://rubygems.org/gems/alpha_jekyll_theme
+gem_uri: https://rubygems.org/gems/alpha_jekyll_theme-0.1.1.gem
+homepage_uri: https://gitlab.com/andrewbanchich/alpha-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/alpha_jekyll_theme/0.1.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  - name: rake
+    requirements: "~> 10.0"
+  runtime: []

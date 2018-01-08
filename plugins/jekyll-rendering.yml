@@ -1,0 +1,23 @@
+---
+name: jekyll-rendering
+downloads: 19541
+version: 0.0.9
+version_downloads: 3287
+platform: ruby
+authors: Jens Wille
+info: Jekyll plugin to provide alternative rendering engines.
+licenses: 
+metadata: {}
+sha: 16ed938b9f14b1c1fdda12b0e346f75ff5571c2be5baf5a7a9cf1bd6c3e4c980
+project_uri: https://rubygems.org/gems/jekyll-rendering
+gem_uri: https://rubygems.org/gems/jekyll-rendering-0.0.9.gem
+homepage_uri: 
+wiki_uri: http://github.com/prometheus-ev/jekyll-rendering/wiki
+documentation_uri: http://rdoc.info/gems/jekyll-rendering
+mailing_list_uri: ''
+source_code_uri: http://github.com/prometheus-ev/jekyll-rendering
+bug_tracker_uri: http://github.com/prometheus-ev/jekyll-rendering/issues
+changelog_uri: 
+dependencies:
+  development: []
+  runtime: []

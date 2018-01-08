@@ -1,0 +1,28 @@
+---
+name: jekyll-theme-tactile
+downloads: 237669
+version: 0.1.0
+version_downloads: 84400
+platform: ruby
+authors: Jason Long, GitHub, Inc.
+info: Tactile is a Jekyll theme for GitHub Pages
+licenses:
+- CC0-1.0
+metadata: {}
+sha: 0ad54dfbfcb44d351440867234c1111b4b7281c6014b5cdbd9db04054e6b4408
+project_uri: https://rubygems.org/gems/jekyll-theme-tactile
+gem_uri: https://rubygems.org/gems/jekyll-theme-tactile-0.1.0.gem
+homepage_uri: https://github.com/pages-themes/tactile
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-theme-tactile/0.1.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.5"
+  - name: jekyll-seo-tag
+    requirements: "~> 2.0"

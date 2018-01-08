@@ -1,0 +1,28 @@
+---
+name: jekyll-menus
+downloads: 13418
+version: 0.6.0
+version_downloads: 3220
+platform: ruby
+authors: Jordon Bedwell
+info: Menus (site navigation) for your Jekyll website
+licenses:
+- MIT
+metadata: {}
+sha: f216b7999c71fab5d66a7e6d7acc09f1b6932a85c450e1476e291196d64a8c0d
+project_uri: https://rubygems.org/gems/jekyll-menus
+gem_uri: https://rubygems.org/gems/jekyll-menus-0.6.0.gem
+homepage_uri: http://github.com/forestryio/jekyll-menus/
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-menus/0.6.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: rspec
+    requirements: "< 4, >= 3"
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.1"

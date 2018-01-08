@@ -1,0 +1,31 @@
+---
+name: jekyll-postfiles
+downloads: 2829
+version: 2.1.1
+version_downloads: 1292
+platform: ruby
+authors: Nicolas Hoizey
+info: This plugin takes any file that is in posts folders, and copy them to the folder
+  in which the post HTML page will be created.
+licenses:
+- MIT
+metadata: {}
+sha: 6796687f60153746034dfb69e5cb06832cc8c5beb9dc54ef08304c02ea9be5ba
+project_uri: https://rubygems.org/gems/jekyll-postfiles
+gem_uri: https://rubygems.org/gems/jekyll-postfiles-2.1.1.gem
+homepage_uri: https://nhoizey.github.io/jekyll-postfiles/
+wiki_uri: ''
+documentation_uri: https://nhoizey.github.io/jekyll-postfiles/
+mailing_list_uri: ''
+source_code_uri: https://github.com/nhoizey/jekyll-postfiles
+bug_tracker_uri: https://github.com/nhoizey/jekyll-postfiles/issues
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: rake
+    requirements: "~> 10.0"
+  - name: rubocop
+    requirements: "~> 0.42"
+  runtime: []

@@ -1,0 +1,37 @@
+---
+name: jekyll-data
+downloads: 25822
+version: 1.0.0
+version_downloads: 23766
+platform: ruby
+authors: Ashwin Maroli
+info: A plugin to read '_config.yml' and data files within Jekyll theme-gems
+licenses:
+- MIT
+metadata:
+  allowed_push_host: https://rubygems.org
+sha: 7cc7d79ef804afff77cc5c35c30173a80cf4ff543480c8195ce6ba8ce983e747
+project_uri: https://rubygems.org/gems/jekyll-data
+gem_uri: https://rubygems.org/gems/jekyll-data-1.0.0.gem
+homepage_uri: https://github.com/ashmaroli/jekyll-data
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-data/1.0.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: ">= 1.14.3, ~> 1.14"
+  - name: cucumber
+    requirements: "~> 2.1"
+  - name: minitest
+    requirements: "~> 5.0"
+  - name: rake
+    requirements: "~> 10.0"
+  - name: rubocop
+    requirements: "~> 0.47.1"
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.3"

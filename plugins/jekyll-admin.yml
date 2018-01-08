@@ -1,0 +1,45 @@
+---
+name: jekyll-admin
+downloads: 49479
+version: 0.7.0
+version_downloads: 5627
+platform: ruby
+authors: Mert Kahyaoğlu, GitHub Open Source
+info: Jekyll::Admin is a drop in administrative framework for Jekyll sites.
+licenses:
+- MIT
+metadata:
+  allowed_push_host: https://rubygems.org
+sha: 95bf512bf0aa2b267ab2cfaefdfb93daee63713e86527456a96cc47a2991ebd4
+project_uri: https://rubygems.org/gems/jekyll-admin
+gem_uri: https://rubygems.org/gems/jekyll-admin-0.7.0.gem
+homepage_uri: https://github.com/jekyll/jekyll-admin
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-admin/0.7.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.7"
+  - name: gem-release
+    requirements: "~> 0.7"
+  - name: rake
+    requirements: "~> 10.0"
+  - name: rspec
+    requirements: "~> 3.4"
+  - name: rubocop
+    requirements: "~> 0.48.1"
+  - name: sinatra-cross_origin
+    requirements: "~> 0.3"
+  runtime:
+  - name: addressable
+    requirements: "~> 2.4"
+  - name: jekyll
+    requirements: "~> 3.3"
+  - name: sinatra
+    requirements: "~> 1.4"
+  - name: sinatra-contrib
+    requirements: "~> 1.4"

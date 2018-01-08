@@ -1,0 +1,30 @@
+---
+name: strata_jekyll_theme
+downloads: 988
+version: 0.1.1
+version_downloads: 619
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Strata" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: 1e985f1d0fc9f347eca5d32596a8d57cea97d6a41a8465688443fd161c18fc24
+project_uri: https://rubygems.org/gems/strata_jekyll_theme
+gem_uri: https://rubygems.org/gems/strata_jekyll_theme-0.1.1.gem
+homepage_uri: https://gitlab.com/andrewbanchich/strata-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/strata_jekyll_theme/0.1.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  - name: rake
+    requirements: "~> 10.0"
+  runtime: []

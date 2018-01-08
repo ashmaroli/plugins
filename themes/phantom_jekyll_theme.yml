@@ -1,0 +1,30 @@
+---
+name: phantom_jekyll_theme
+downloads: 942
+version: 0.1.1
+version_downloads: 571
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Phantom" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: b57365246fae0f0c517c82c111af09e0d770117d296504cc5b4e3c6004e8dfc4
+project_uri: https://rubygems.org/gems/phantom_jekyll_theme
+gem_uri: https://rubygems.org/gems/phantom_jekyll_theme-0.1.1.gem
+homepage_uri: https://gitlab.com/andrewbanchich/phantom-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/phantom_jekyll_theme/0.1.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  - name: rake
+    requirements: "~> 10.0"
+  runtime: []

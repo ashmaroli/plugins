@@ -1,0 +1,28 @@
+---
+name: jekyll-theme-architect
+downloads: 238569
+version: 0.1.0
+version_downloads: 85162
+platform: ruby
+authors: Jason Long, GitHub, Inc.
+info: Architect is a Jekyll theme for GitHub Pages
+licenses:
+- CC0-1.0
+metadata: {}
+sha: 861c534c695c641a714b4dfee026a739308f6b2fa045657dcb14275651a80014
+project_uri: https://rubygems.org/gems/jekyll-theme-architect
+gem_uri: https://rubygems.org/gems/jekyll-theme-architect-0.1.0.gem
+homepage_uri: https://github.com/pages-themes/architect
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-theme-architect/0.1.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.5"
+  - name: jekyll-seo-tag
+    requirements: "~> 2.0"

@@ -1,0 +1,30 @@
+---
+name: multiverse_jekyll_theme
+downloads: 921
+version: 0.1.1
+version_downloads: 551
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Multiverse" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: 2e92348fdad637662cecd2ad916158d3c26bf111c5295f59cea72bfb0d4cc4f4
+project_uri: https://rubygems.org/gems/multiverse_jekyll_theme
+gem_uri: https://rubygems.org/gems/multiverse_jekyll_theme-0.1.1.gem
+homepage_uri: https://gitlab.com/andrewbanchich/multiverse-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/multiverse_jekyll_theme/0.1.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  - name: rake
+    requirements: "~> 10.0"
+  runtime: []

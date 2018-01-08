@@ -1,0 +1,35 @@
+---
+name: jekyll-press
+downloads: 20804
+version: 0.2.1
+version_downloads: 15566
+platform: ruby
+authors: sterebooster
+info: Minifier plugin for jekyll. Minifies all html, js, css files. Simple just drop
+  it in solution. No Java required
+licenses:
+- MIT
+metadata: {}
+sha: 64fb1ba34412c29d0ff9c17dfa52d89843bd81c784edca22ccf7909d1a435446
+project_uri: https://rubygems.org/gems/jekyll-press
+gem_uri: https://rubygems.org/gems/jekyll-press-0.2.1.gem
+homepage_uri: http://github.com/stereobooster/jekyll-press
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-press/0.2.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: rake
+    requirements: ">= 0"
+  runtime:
+  - name: html_press
+    requirements: ">= 0.8.2"
+  - name: jekyll
+    requirements: ">= 0"
+  - name: multi_css
+    requirements: ">= 0.1.0"
+  - name: multi_js
+    requirements: ">= 0.1.0"

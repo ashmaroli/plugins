@@ -1,0 +1,49 @@
+---
+name: jekyll-assets
+downloads: 363792
+version: 3.0.5
+version_downloads: 2210
+platform: ruby
+authors: Jordon Bedwell, Aleksey V Zapparov, Zachary Bush
+info: |
+  A drop-in Jekyll Plugin that provides an asset pipeline for JavaScript,
+  CSS, SASS, SCSS.  Based around Sprockets (from Rails) and just as powereful
+  it provides everything you need to manage assets in Jekyll.
+licenses:
+- MIT
+metadata: {}
+sha: c1699f0c84236d0d198760bb03aab37a4f5da318e5046683b7f3d8758562d3c0
+project_uri: https://rubygems.org/gems/jekyll-assets
+gem_uri: https://rubygems.org/gems/jekyll-assets-3.0.5.gem
+homepage_uri: http://github.com/jekyll/jekyll-assets/
+wiki_uri: https://wiki.github.com/ixti/jekyll-assets
+documentation_uri: http://ixti.net/jekyll-assets
+mailing_list_uri: ''
+source_code_uri: https://github.com/ixti/jekyll-assets
+bug_tracker_uri: https://github.com/ixti/jekyll-assets/issues
+changelog_uri: 
+dependencies:
+  development:
+  - name: rspec
+    requirements: "~> 3.4"
+  runtime:
+  - name: activesupport
+    requirements: "~> 5.0"
+  - name: execjs
+    requirements: "~> 2.7"
+  - name: extras
+    requirements: "~> 0.2"
+  - name: fastimage
+    requirements: ">= 1.8, ~> 2.0"
+  - name: jekyll
+    requirements: "< 4.0, >= 3.5"
+  - name: jekyll-sanity
+    requirements: "~> 1.2"
+  - name: liquid-tag-parser
+    requirements: "~> 1.0"
+  - name: nokogiri
+    requirements: "~> 1.8"
+  - name: pathutil
+    requirements: "~> 0.16"
+  - name: sprockets
+    requirements: "< 4.1.beta, >= 3.3"

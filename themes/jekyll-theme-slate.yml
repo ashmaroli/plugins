@@ -1,0 +1,28 @@
+---
+name: jekyll-theme-slate
+downloads: 238114
+version: 0.1.0
+version_downloads: 84596
+platform: ruby
+authors: Jason Costello, GitHub, Inc.
+info: Slate is a Jekyll theme for GitHub Pages
+licenses:
+- CC0-1.0
+metadata: {}
+sha: 865ef54ee32bffc0e3ba004c618f80927be9a3b53b4e2818dffe9d2ee1d125ab
+project_uri: https://rubygems.org/gems/jekyll-theme-slate
+gem_uri: https://rubygems.org/gems/jekyll-theme-slate-0.1.0.gem
+homepage_uri: https://github.com/pages-themes/slate
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-theme-slate/0.1.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.5"
+  - name: jekyll-seo-tag
+    requirements: "~> 2.0"

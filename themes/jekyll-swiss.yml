@@ -1,0 +1,30 @@
+---
+name: jekyll-swiss
+downloads: 271403
+version: 0.4.0
+version_downloads: 269819
+platform: ruby
+authors: broccolini
+info: A bold typographic theme for Jekyll, inspired by Swiss design.
+licenses:
+- MIT
+metadata: {}
+sha: 15d91256f0eadd5269951ee1c230234da730ccdeca3bf20d12f3081d80309198
+project_uri: https://rubygems.org/gems/jekyll-swiss
+gem_uri: https://rubygems.org/gems/jekyll-swiss-0.4.0.gem
+homepage_uri: http://broccolini.net/swiss
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-swiss/0.4.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.2"
+  - name: rake
+    requirements: "~> 10.0"
+  runtime: []

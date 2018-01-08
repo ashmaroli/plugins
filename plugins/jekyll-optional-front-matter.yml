@@ -1,0 +1,30 @@
+---
+name: jekyll-optional-front-matter
+downloads: 242581
+version: 0.3.0
+version_downloads: 24554
+platform: ruby
+authors: Ben Balter
+info: A Jekyll plugin to make front matter optional for Markdown files
+licenses:
+- MIT
+metadata: {}
+sha: d0c916e8eaba28d22c9f17517f2257f78afd8008e58f33a646e32d8bf7333c83
+project_uri: https://rubygems.org/gems/jekyll-optional-front-matter
+gem_uri: https://rubygems.org/gems/jekyll-optional-front-matter-0.3.0.gem
+homepage_uri: https://github.com/benbalter/jekyll-optional-front-matter
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-optional-front-matter/0.3.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: rspec
+    requirements: "~> 3.5"
+  - name: rubocop
+    requirements: "~> 0.40"
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.0"

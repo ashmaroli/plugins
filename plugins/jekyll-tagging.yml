@@ -1,0 +1,30 @@
+---
+name: jekyll-tagging
+downloads: 59629
+version: 1.1.0
+version_downloads: 10630
+platform: ruby
+authors: Arne Eilermann, Jens Wille
+info: Jekyll plugin to automatically generate a tag cloud and tag pages.
+licenses:
+- MIT
+metadata: {}
+sha: 24cab3d0f9920381028597667b1ea977479d95cffe271e64f4c394e64b4a09e3
+project_uri: https://rubygems.org/gems/jekyll-tagging
+gem_uri: https://rubygems.org/gems/jekyll-tagging-1.1.0.gem
+homepage_uri: http://github.com/pattex/jekyll-tagging
+wiki_uri: ''
+documentation_uri: http://rdoc.info/github/pattex/jekyll-tagging
+mailing_list_uri: ''
+source_code_uri: https://github.com/pattex/jekyll-tagging
+bug_tracker_uri: https://github.com/pattex/jekyll-tagging/issues
+changelog_uri: 
+dependencies:
+  development:
+  - name: hen
+    requirements: ">= 0.8.7, ~> 0.8"
+  - name: rake
+    requirements: ">= 0"
+  runtime:
+  - name: nuggets
+    requirements: ">= 0"

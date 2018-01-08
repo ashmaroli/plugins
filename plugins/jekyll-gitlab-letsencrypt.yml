@@ -1,0 +1,40 @@
+---
+name: jekyll-gitlab-letsencrypt
+downloads: 1663
+version: 0.1.0
+version_downloads: 527
+platform: ruby
+authors: Justin Aiken
+info: Automate letsencrypt renewals for gitlab pages.
+licenses:
+- MIT
+metadata: {}
+sha: 7de28b88ddff87095e698d7c8c01aea2fa532b25e5272f79362a114fe3c16026
+project_uri: https://rubygems.org/gems/jekyll-gitlab-letsencrypt
+gem_uri: https://rubygems.org/gems/jekyll-gitlab-letsencrypt-0.1.0.gem
+homepage_uri: https://github.com/JustinAiken/jekyll-gitlab-letsencrypt
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-gitlab-letsencrypt/0.1.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: ">= 1.13"
+  - name: coveralls
+    requirements: ">= 0"
+  - name: jekyll
+    requirements: ">= 3.0"
+  - name: rake
+    requirements: ">= 10.0"
+  - name: rspec
+    requirements: "~> 3.0"
+  - name: vcr
+    requirements: "~> 3.0.3"
+  runtime:
+  - name: acme-client
+    requirements: "~> 0.5.0"
+  - name: activesupport
+    requirements: ">= 3.0.0"

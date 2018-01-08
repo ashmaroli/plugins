@@ -1,0 +1,38 @@
+---
+name: jekyll-github-metadata
+downloads: 454561
+version: 2.9.4
+version_downloads: 1244
+platform: ruby
+authors: Parker Moore
+info: The site.github namespace
+licenses:
+- MIT
+metadata: {}
+sha: e84f4bf7a8a9139ee2a6e997becf6ce48bab347c64f3780cf9bf8565ef2fb6c3
+project_uri: https://rubygems.org/gems/jekyll-github-metadata
+gem_uri: https://rubygems.org/gems/jekyll-github-metadata-2.9.4.gem
+homepage_uri: https://github.com/parkr/github-metadata
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-github-metadata/2.9.4
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.5"
+  - name: netrc
+    requirements: ">= 0"
+  - name: rake
+    requirements: ">= 0"
+  - name: rspec
+    requirements: ">= 0"
+  - name: rubocop
+    requirements: "~> 0.51"
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.1"
+  - name: octokit
+    requirements: "!= 4.4.0, ~> 4.0"

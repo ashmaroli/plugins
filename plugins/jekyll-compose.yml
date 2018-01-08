@@ -1,0 +1,32 @@
+---
+name: jekyll-compose
+downloads: 42899
+version: 0.6.0
+version_downloads: 2698
+platform: ruby
+authors: Parker Moore
+info: Streamline your writing in Jekyll with these commands.
+licenses:
+- MIT
+metadata: {}
+sha: 9358ed13d2a4f1ba4d2e244dd02606a401026e41016938bbcbc5ef5848aaebfa
+project_uri: https://rubygems.org/gems/jekyll-compose
+gem_uri: https://rubygems.org/gems/jekyll-compose-0.6.0.gem
+homepage_uri: https://github.com/jekyll/jekyll-compose
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-compose/0.6.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.5"
+  - name: rake
+    requirements: "~> 10.0"
+  - name: rspec
+    requirements: "~> 3.0"
+  runtime:
+  - name: jekyll
+    requirements: ">= 3.0.0"

@@ -1,0 +1,30 @@
+---
+name: hyperspace_jekyll_theme
+downloads: 924
+version: 0.1.1
+version_downloads: 560
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Hyperspace" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: ca3a822f878689199ed0cb6cccfc8fcc6d3e21444a51abbff431872558a922d2
+project_uri: https://rubygems.org/gems/hyperspace_jekyll_theme
+gem_uri: https://rubygems.org/gems/hyperspace_jekyll_theme-0.1.1.gem
+homepage_uri: https://gitlab.com/andrewbanchich/hyperspace-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/hyperspace_jekyll_theme/0.1.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  - name: rake
+    requirements: "~> 10.0"
+  runtime: []

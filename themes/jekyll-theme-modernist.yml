@@ -1,0 +1,28 @@
+---
+name: jekyll-theme-modernist
+downloads: 237489
+version: 0.1.0
+version_downloads: 84341
+platform: ruby
+authors: Steve Smith, GitHub, Inc.
+info: Modernist is a Jekyll theme for GitHub Pages
+licenses:
+- CC0-1.0
+metadata: {}
+sha: 97d4990e68190a35dc9932109009600c12687c3d2f0d8571c3dddef0e516cc07
+project_uri: https://rubygems.org/gems/jekyll-theme-modernist
+gem_uri: https://rubygems.org/gems/jekyll-theme-modernist-0.1.0.gem
+homepage_uri: https://github.com/pages-themes/modernist
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-theme-modernist/0.1.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.5"
+  - name: jekyll-seo-tag
+    requirements: "~> 2.0"

@@ -1,0 +1,28 @@
+---
+name: eventually_jekyll_theme
+downloads: 2370
+version: '1.2'
+version_downloads: 485
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Eventually" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: 68e7dae4ee756db5b3a85e9c8c9f6f8cda1b3db7db89da8e843971f1afef2963
+project_uri: https://rubygems.org/gems/eventually_jekyll_theme
+gem_uri: https://rubygems.org/gems/eventually_jekyll_theme-1.2.gem
+homepage_uri: https://gitlab.com/andrewbanchich/eventually-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/eventually_jekyll_theme/1.2
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  runtime: []

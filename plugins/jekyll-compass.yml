@@ -1,0 +1,30 @@
+---
+name: jekyll-compass
+downloads: 31121
+version: 2.0.1
+version_downloads: 5238
+platform: ruby
+authors: Matthew Scharley, Jean-Denis Vauguet
+info: |2
+      A Jekyll plugin enabling the Compass framework.
+      Jekyll website. Compass is an extension library for the CSS preprocessor Sass.
+licenses:
+- MIT
+metadata: {}
+sha: 6723bb075388af2b352d3df3607f9051171128e454fca3f498d3a087d4c24731
+project_uri: https://rubygems.org/gems/jekyll-compass
+gem_uri: https://rubygems.org/gems/jekyll-compass-2.0.1.gem
+homepage_uri: https://github.com/chikamichi/jekyll-compass
+wiki_uri: ''
+documentation_uri: https://github.com/chikamichi/jekyll-compass/blob/master/README.md
+mailing_list_uri: ''
+source_code_uri: https://github.com/chikamichi/jekyll-compass
+bug_tracker_uri: https://github.com/chikamichi/jekyll-compass/issues
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: compass
+    requirements: "~> 1.0"
+  - name: jekyll
+    requirements: "~> 3.0"

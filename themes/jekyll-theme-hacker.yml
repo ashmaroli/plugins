@@ -1,0 +1,28 @@
+---
+name: jekyll-theme-hacker
+downloads: 238227
+version: 0.1.0
+version_downloads: 84659
+platform: ruby
+authors: Jason Costello, GitHub, Inc.
+info: Hacker is a Jekyll theme for GitHub Pages
+licenses:
+- CC0-1.0
+metadata: {}
+sha: 19a902672dc69b2fd40960c4714a4a9ef139fe254f611ed2a48ed490e396d017
+project_uri: https://rubygems.org/gems/jekyll-theme-hacker
+gem_uri: https://rubygems.org/gems/jekyll-theme-hacker-0.1.0.gem
+homepage_uri: https://github.com/pages-themes/hacker
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-theme-hacker/0.1.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.5"
+  - name: jekyll-seo-tag
+    requirements: "~> 2.0"

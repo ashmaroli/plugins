@@ -1,0 +1,30 @@
+---
+name: jekyll-docs
+downloads: 24005
+version: 3.7.0
+version_downloads: 210
+platform: ruby
+authors: Parker Moore
+info: Offline usage documentation for Jekyll.
+licenses:
+- MIT
+metadata: {}
+sha: cfc225c09bfef536bd6bd9c26675e19273a926f411a3e2485c27ff2e179293ab
+project_uri: https://rubygems.org/gems/jekyll-docs
+gem_uri: https://rubygems.org/gems/jekyll-docs-3.7.0.gem
+homepage_uri: https://jekyllrb.com
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-docs/3.7.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: rake
+    requirements: "~> 12.0"
+  runtime:
+  - name: jekyll
+    requirements: "= 3.7.0"

@@ -1,0 +1,70 @@
+---
+name: jekyll-import
+downloads: 65315
+version: 0.13.0
+version_downloads: 824
+platform: ruby
+authors: Tom Preston-Werner
+info: Provides the Import command for Jekyll.
+licenses:
+- MIT
+metadata: {}
+sha: ea4a93f82ef3462bb892e210105017fbabce2171bb61037f64d3414e3dd2b24b
+project_uri: https://rubygems.org/gems/jekyll-import
+gem_uri: https://rubygems.org/gems/jekyll-import-0.13.0.gem
+homepage_uri: http://github.com/jekyll/jekyll-import
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-import/0.13.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: activesupport
+    requirements: "~> 3.2"
+  - name: behance
+    requirements: "~> 0.3"
+  - name: hpricot
+    requirements: "~> 0.8"
+  - name: htmlentities
+    requirements: "~> 4.3"
+  - name: launchy
+    requirements: "~> 2.4"
+  - name: mysql2
+    requirements: "~> 0.3"
+  - name: open_uri_redirections
+    requirements: ">= 0"
+  - name: pg
+    requirements: "~> 0.12"
+  - name: rake
+    requirements: "~> 10.1.0"
+  - name: rdoc
+    requirements: "~> 4.0.0"
+  - name: redgreen
+    requirements: "~> 1.2"
+  - name: reverse_markdown
+    requirements: ">= 0"
+  - name: rr
+    requirements: "~> 1.0"
+  - name: rubocop
+    requirements: ">= 0"
+  - name: sequel
+    requirements: "~> 3.42"
+  - name: shoulda
+    requirements: "~> 3.5"
+  - name: simplecov
+    requirements: "~> 0.7"
+  - name: simplecov-gem-adapter
+    requirements: "~> 1.0.1"
+  - name: sqlite3
+    requirements: "~> 1.3.13"
+  - name: unidecode
+    requirements: ">= 0"
+  runtime:
+  - name: fastercsv
+    requirements: ">= 0"
+  - name: jekyll
+    requirements: ">= 1.4"
+  - name: nokogiri
+    requirements: ">= 0"

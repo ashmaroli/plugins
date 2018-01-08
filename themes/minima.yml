@@ -1,0 +1,29 @@
+---
+name: minima
+downloads: 668444
+version: 2.1.1
+version_downloads: 320445
+platform: ruby
+authors: Joel Glovier
+info: A beautiful, minimal theme for Jekyll.
+licenses:
+- MIT
+metadata:
+  plugin_type: theme
+sha: e5f1ea02db43999f284f5858e840085ac687839a331e674126275ec2d500f731
+project_uri: https://rubygems.org/gems/minima
+gem_uri: https://rubygems.org/gems/minima-2.1.1.gem
+homepage_uri: https://github.com/jekyll/minima
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/minima/2.1.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.3"

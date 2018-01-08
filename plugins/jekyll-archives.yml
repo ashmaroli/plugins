@@ -1,0 +1,34 @@
+---
+name: jekyll-archives
+downloads: 54589
+version: 2.1.1
+version_downloads: 32857
+platform: ruby
+authors: Alfred Xing
+info: Automatically generate post archives by dates, tags, and categories.
+licenses:
+- MIT
+metadata: {}
+sha: 63adf4b1be9368bad228c54a1ff5575da942d10e877bf894a186281699bd4297
+project_uri: https://rubygems.org/gems/jekyll-archives
+gem_uri: https://rubygems.org/gems/jekyll-archives-2.1.1.gem
+homepage_uri: https://github.com/jekyll/jekyll-archives
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-archives/2.1.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: minitest
+    requirements: ">= 0"
+  - name: rake
+    requirements: ">= 0"
+  - name: rdoc
+    requirements: ">= 0"
+  - name: shoulda
+    requirements: ">= 0"
+  runtime:
+  - name: jekyll
+    requirements: ">= 2.4"

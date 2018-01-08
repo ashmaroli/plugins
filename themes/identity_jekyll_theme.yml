@@ -1,0 +1,28 @@
+---
+name: identity_jekyll_theme
+downloads: 2622
+version: '1.2'
+version_downloads: 482
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Identity" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: a259ab661db5d3408576e12f3fe933db6a8fc2fe2fbe05e457a6543125ff2193
+project_uri: https://rubygems.org/gems/identity_jekyll_theme
+gem_uri: https://rubygems.org/gems/identity_jekyll_theme-1.2.gem
+homepage_uri: https://gitlab.com/andrewbanchich/identity-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/identity_jekyll_theme/1.2
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  runtime: []

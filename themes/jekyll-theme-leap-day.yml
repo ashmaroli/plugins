@@ -1,0 +1,28 @@
+---
+name: jekyll-theme-leap-day
+downloads: 238450
+version: 0.1.0
+version_downloads: 84500
+platform: ruby
+authors: Matt Graham, GitHub, Inc.
+info: Leap Day is a Jekyll theme for GitHub Pages
+licenses:
+- CC0-1.0
+metadata: {}
+sha: 11c82f32fda533587a68c6c92fec52f24a703fe2dc753449ad49e3bab90c21ea
+project_uri: https://rubygems.org/gems/jekyll-theme-leap-day
+gem_uri: https://rubygems.org/gems/jekyll-theme-leap-day-0.1.0.gem
+homepage_uri: https://github.com/pages-themes/leap-day
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-theme-leap-day/0.1.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.5"
+  - name: jekyll-seo-tag
+    requirements: "~> 2.0"

@@ -1,0 +1,30 @@
+---
+name: future_imperfect_jekyll_theme
+downloads: 957
+version: 0.1.1
+version_downloads: 582
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Future Imperfect" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: 563ce8cf2317d9ad04c5e069aa1327c4cd3e5812ecad1e1932a3b0f57b4259f8
+project_uri: https://rubygems.org/gems/future_imperfect_jekyll_theme
+gem_uri: https://rubygems.org/gems/future_imperfect_jekyll_theme-0.1.1.gem
+homepage_uri: https://gitlab.com/andrewbanchich/future-imperfect-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/future_imperfect_jekyll_theme/0.1.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  - name: rake
+    requirements: "~> 10.0"
+  runtime: []

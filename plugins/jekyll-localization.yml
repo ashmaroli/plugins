@@ -1,0 +1,25 @@
+---
+name: jekyll-localization
+downloads: 32439
+version: 0.1.7
+version_downloads: 2543
+platform: ruby
+authors: Jens Wille, Arne Eilermann
+info: Jekyll plugin that adds localization features to the rendering engine.
+licenses: []
+metadata: {}
+sha: 4fecd2d8f7379a4a4fb9c50caa87a9c3f3cb3912742335f4076708672e7ae832
+project_uri: https://rubygems.org/gems/jekyll-localization
+gem_uri: https://rubygems.org/gems/jekyll-localization-0.1.7.gem
+homepage_uri: http://github.com/blackwinter/jekyll-localization
+wiki_uri: http://github.com/prometheus-ev/jekyll-localization/wiki
+documentation_uri: http://rdoc.info/gems/jekyll-localization
+mailing_list_uri: ''
+source_code_uri: http://github.com/prometheus-ev/jekyll-localization
+bug_tracker_uri: http://github.com/prometheus-ev/jekyll-localization/issues
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll-rendering
+    requirements: ">= 0"

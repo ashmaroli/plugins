@@ -1,0 +1,28 @@
+---
+name: jekyll-theme-dinky
+downloads: 237613
+version: 0.1.0
+version_downloads: 84403
+platform: ruby
+authors: Diana Mounter, GitHub, Inc.
+info: Dinky is a Jekyll theme for GitHub Pages
+licenses:
+- CC0-1.0
+metadata: {}
+sha: 8f1f9f730918e9a8752cb238d0c7546cdb9cb1cf667a713dbde491baff8e7778
+project_uri: https://rubygems.org/gems/jekyll-theme-dinky
+gem_uri: https://rubygems.org/gems/jekyll-theme-dinky-0.1.0.gem
+homepage_uri: https://github.com/pages-themes/dinky
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-theme-dinky/0.1.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.5"
+  - name: jekyll-seo-tag
+    requirements: "~> 2.0"

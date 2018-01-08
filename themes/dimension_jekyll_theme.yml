@@ -1,0 +1,28 @@
+---
+name: dimension_jekyll_theme
+downloads: 1830
+version: '1.2'
+version_downloads: 487
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Dimension" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: f7f37d84764fc4eacd0cc1c121aa39f5d17d2634fc5bd62b34c7f1fead044427
+project_uri: https://rubygems.org/gems/dimension_jekyll_theme
+gem_uri: https://rubygems.org/gems/dimension_jekyll_theme-1.2.gem
+homepage_uri: https://gitlab.com/andrewbanchich/dimension-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/dimension_jekyll_theme/1.2
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  runtime: []

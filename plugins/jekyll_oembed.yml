@@ -1,0 +1,28 @@
+---
+name: jekyll_oembed
+downloads: 5477
+version: 0.0.3
+version_downloads: 4920
+platform: ruby
+authors: 18F
+info: Provides an oembed liquid tag for Jekyll
+licenses:
+- Nonstandard
+metadata: {}
+sha: 36f597c27a703618145e9797ba42748133deb1715831e2a0d8b0aa171ec6dfb7
+project_uri: https://rubygems.org/gems/jekyll_oembed
+gem_uri: https://rubygems.org/gems/jekyll_oembed-0.0.3.gem
+homepage_uri: https://github.com/18F/jekyll-oembed
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll_oembed/0.0.3
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll
+    requirements: "~> 3"
+  - name: ruby-oembed
+    requirements: "~> 0"

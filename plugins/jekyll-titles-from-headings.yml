@@ -1,0 +1,31 @@
+---
+name: jekyll-titles-from-headings
+downloads: 252772
+version: 0.5.0
+version_downloads: 24280
+platform: ruby
+authors: Ben Balter
+info: A Jekyll plugin to pull the page title from the first Markdown heading when
+  none is specified.
+licenses:
+- MIT
+metadata: {}
+sha: 0da273f44fb62a6a664bc791b3e1e98533a5e8789f4e95cfee3d525744ea3757
+project_uri: https://rubygems.org/gems/jekyll-titles-from-headings
+gem_uri: https://rubygems.org/gems/jekyll-titles-from-headings-0.5.0.gem
+homepage_uri: https://github.com/benbalter/jekyll-titles-from-headings
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-titles-from-headings/0.5.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: rspec
+    requirements: "~> 3.5"
+  - name: rubocop
+    requirements: "~> 0.43"
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.3"

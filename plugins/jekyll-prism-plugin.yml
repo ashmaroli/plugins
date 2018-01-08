@@ -1,0 +1,34 @@
+---
+name: jekyll-prism-plugin
+downloads: 1698
+version: 0.0.1
+version_downloads: 1698
+platform: ruby
+authors: Tom Janssens
+info: This rubygem does not have a description or summary.
+licenses:
+- MIT
+metadata: {}
+sha: 4ce4a886a9c8f918e148771fc0fa8a3e31d4adeddcdc3ca4e672700039815be7
+project_uri: https://rubygems.org/gems/jekyll-prism-plugin
+gem_uri: https://rubygems.org/gems/jekyll-prism-plugin-0.0.1.gem
+homepage_uri: http://github.com/tomjanssens/jekyll-prism-plugin
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-prism-plugin/0.0.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.0"
+  - name: jeweler
+    requirements: "~> 2.0.1"
+  - name: rdoc
+    requirements: "~> 3.12"
+  - name: shoulda
+    requirements: ">= 0"
+  - name: simplecov
+    requirements: ">= 0"
+  runtime: []

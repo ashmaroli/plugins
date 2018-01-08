@@ -1,0 +1,30 @@
+---
+name: jekyll-readme-index
+downloads: 244179
+version: 0.2.0
+version_downloads: 23611
+platform: ruby
+authors: Ben Balter
+info: A Jekyll plugin to render a project's README as the site's index.
+licenses:
+- MIT
+metadata: {}
+sha: 21d649fc2ae4ca6b0c9fa8735f066825be5d65104af65da1a12625f462a6e7d4
+project_uri: https://rubygems.org/gems/jekyll-readme-index
+gem_uri: https://rubygems.org/gems/jekyll-readme-index-0.2.0.gem
+homepage_uri: https://github.com/benbalter/jekyll-readme-index
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-readme-index/0.2.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: rspec
+    requirements: "~> 3.5"
+  - name: rubocop
+    requirements: "~> 0.40"
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.0"

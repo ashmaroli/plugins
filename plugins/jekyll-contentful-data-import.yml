@@ -1,0 +1,52 @@
+---
+name: jekyll-contentful-data-import
+downloads: 19895
+version: 1.6.0
+version_downloads: 4165
+platform: ruby
+authors: Contentful GmbH
+info: Load blog posts and other managed content into Jekyll
+licenses:
+- MIT
+metadata: {}
+sha: 2b9da8b5e3a942ab805a223f5485666898b5da3b87adcac04250c23bf4c9e15b
+project_uri: https://rubygems.org/gems/jekyll-contentful-data-import
+gem_uri: https://rubygems.org/gems/jekyll-contentful-data-import-1.6.0.gem
+homepage_uri: https://www.contentful.com
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-contentful-data-import/1.6.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.6"
+  - name: guard
+    requirements: ">= 0"
+  - name: guard-rspec
+    requirements: ">= 0"
+  - name: guard-rubocop
+    requirements: ">= 0"
+  - name: pry
+    requirements: ">= 0"
+  - name: rake
+    requirements: ">= 0"
+  - name: rspec
+    requirements: "~> 3.0"
+  - name: rubocop
+    requirements: ">= 0"
+  - name: rubygems-tasks
+    requirements: "~> 0.2"
+  - name: simplecov
+    requirements: ">= 0"
+  - name: vcr
+    requirements: ">= 0"
+  - name: webmock
+    requirements: ">= 0"
+  runtime:
+  - name: contentful
+    requirements: "~> 2.1"
+  - name: jekyll
+    requirements: "< 4, >= 2.5.0"

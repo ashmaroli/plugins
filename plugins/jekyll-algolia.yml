@@ -1,0 +1,58 @@
+---
+name: jekyll-algolia
+downloads: 636
+version: 1.0.1
+version_downloads: 287
+platform: ruby
+authors: Tim Carry
+info: Index all your content into Algolia by running `jekyll algolia`
+licenses:
+- MIT
+metadata: {}
+sha: c6cdc74af7b5a882bd852f634fb30a96b2d2937a800314719f4bff8a05e62bd9
+project_uri: https://rubygems.org/gems/jekyll-algolia
+gem_uri: https://rubygems.org/gems/jekyll-algolia-1.0.1.gem
+homepage_uri: https://github.com/algolia/jekyll-algolia
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-algolia/1.0.1
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: coveralls
+    requirements: "~> 0.8"
+  - name: flay
+    requirements: "~> 2.6"
+  - name: flog
+    requirements: "~> 4.3"
+  - name: guard-rspec
+    requirements: "~> 4.6"
+  - name: rake
+    requirements: "~> 12.3"
+  - name: rspec
+    requirements: "~> 3.0"
+  - name: rubocop
+    requirements: "~> 0.51"
+  - name: rubocop-rspec-focused
+    requirements: "~> 0.1.0"
+  - name: simplecov
+    requirements: "~> 0.10"
+  runtime:
+  - name: algolia_html_extractor
+    requirements: "~> 2.2"
+  - name: algoliasearch
+    requirements: "~> 1.18"
+  - name: filesize
+    requirements: "~> 0.1"
+  - name: jekyll
+    requirements: "~> 3.0"
+  - name: jekyll-paginate
+    requirements: "~> 1.1"
+  - name: json
+    requirements: "~> 2.0"
+  - name: nokogiri
+    requirements: "~> 1.6"
+  - name: verbal_expressions
+    requirements: "~> 0.1.5"

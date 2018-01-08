@@ -1,0 +1,28 @@
+---
+name: lens_jekyll_theme
+downloads: 2002
+version: '1.2'
+version_downloads: 487
+platform: ruby
+authors: Andrew Banchich
+info: A Jekyll version of the "Lens" theme by HTML5 UP.
+licenses:
+- MIT
+metadata: {}
+sha: 95d5963c525b91e291de5f3a6534e6ad3e31b795891f7e336f3b6e2bffe643a6
+project_uri: https://rubygems.org/gems/lens_jekyll_theme
+gem_uri: https://rubygems.org/gems/lens_jekyll_theme-1.2.gem
+homepage_uri: https://gitlab.com/andrewbanchich/lens-jekyll-theme
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/lens_jekyll_theme/1.2
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: bundler
+    requirements: "~> 1.12"
+  - name: jekyll
+    requirements: "~> 3.3"
+  runtime: []

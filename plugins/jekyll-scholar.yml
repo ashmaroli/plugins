@@ -1,0 +1,35 @@
+---
+name: jekyll-scholar
+downloads: 94430
+version: 5.11.0
+version_downloads: 191
+platform: ruby
+authors: Sylvester Keil
+info: " Jekyll-Scholar is for all the academic bloggers out there. It is a set of
+  extensions for Jekyll the awesome, blog aware, static site generator; it formats
+  your BibTeX bibliographies for the web using CSL citation styles and generally gives
+  your blog posts citation super-powers.' "
+licenses:
+- MIT
+metadata: {}
+sha: f67868e136859911238eb6ad1b3a6960485ce930fd64f9bf860a8d990563e4a2
+project_uri: https://rubygems.org/gems/jekyll-scholar
+gem_uri: https://rubygems.org/gems/jekyll-scholar-5.11.0.gem
+homepage_uri: http://github.com/inukshuk/jekyll-scholar
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-scholar/5.11.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: bibtex-ruby
+    requirements: ">= 4.0.13, ~> 4.0"
+  - name: citeproc-ruby
+    requirements: "~> 1.0"
+  - name: csl-styles
+    requirements: "~> 1.0"
+  - name: jekyll
+    requirements: "~> 3.0"

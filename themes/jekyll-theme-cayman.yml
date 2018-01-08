@@ -1,0 +1,28 @@
+---
+name: jekyll-theme-cayman
+downloads: 243024
+version: 0.1.0
+version_downloads: 84920
+platform: ruby
+authors: Jason Long, GitHub, Inc.
+info: Cayman is a Jekyll theme for GitHub Pages
+licenses:
+- CC0-1.0
+metadata: {}
+sha: be533ece740bc8cf53451d6446970d1ad84a3ae9d219682b4091d22b7930a88c
+project_uri: https://rubygems.org/gems/jekyll-theme-cayman
+gem_uri: https://rubygems.org/gems/jekyll-theme-cayman-0.1.0.gem
+homepage_uri: https://github.com/pages-themes/cayman
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-theme-cayman/0.1.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development: []
+  runtime:
+  - name: jekyll
+    requirements: "~> 3.5"
+  - name: jekyll-seo-tag
+    requirements: "~> 2.0"

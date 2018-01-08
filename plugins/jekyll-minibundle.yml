@@ -1,0 +1,43 @@
+---
+name: jekyll-minibundle
+downloads: 30622
+version: 2.2.0
+version_downloads: 1702
+platform: ruby
+authors: Tuomas Kareinen
+info: |
+  A straightforward asset bundling plugin for Jekyll, utilizing external
+  minification tool of your choice. It provides asset concatenation for
+  bundling and asset fingerprinting with MD5 digest for cache busting.
+  There are no other runtime dependencies besides the minification tool
+  (not even other gems).
+licenses:
+- MIT
+metadata: {}
+sha: 3907c466a8641fdcf133f32b2cd9607bdaf6b5823394c4c96fe618764b5ca0e2
+project_uri: https://rubygems.org/gems/jekyll-minibundle
+gem_uri: https://rubygems.org/gems/jekyll-minibundle-2.2.0.gem
+homepage_uri: https://github.com/tkareine/jekyll-minibundle
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-minibundle/2.2.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: benchmark-ips
+    requirements: "~> 2.7"
+  - name: jekyll
+    requirements: "~> 3.0"
+  - name: minitest
+    requirements: "~> 5.8"
+  - name: nokogiri
+    requirements: "~> 1.6"
+  - name: pry
+    requirements: "~> 0.10"
+  - name: rake
+    requirements: "~> 12.0"
+  - name: rubocop
+    requirements: "~> 0.47.0"
+  runtime: []

@@ -1,0 +1,36 @@
+---
+name: jekyll-mentions
+downloads: 733628
+version: 1.2.0
+version_downloads: 283992
+platform: ruby
+authors: GitHub, Inc.
+info: "@mention support for your Jekyll site"
+licenses:
+- MIT
+metadata: {}
+sha: cd4f5c24d6ca34baa7271925a742d5a26277f0f70af44d765d3146f26ca8d802
+project_uri: https://rubygems.org/gems/jekyll-mentions
+gem_uri: https://rubygems.org/gems/jekyll-mentions-1.2.0.gem
+homepage_uri: https://github.com/jekyll/jekyll-mentions
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-mentions/1.2.0
+mailing_list_uri: 
+source_code_uri: 
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: rake
+    requirements: ">= 0"
+  - name: rdoc
+    requirements: ">= 0"
+  - name: rspec
+    requirements: "~> 3.0"
+  runtime:
+  - name: activesupport
+    requirements: "~> 4.0"
+  - name: html-pipeline
+    requirements: "~> 2.3"
+  - name: jekyll
+    requirements: "~> 3.0"

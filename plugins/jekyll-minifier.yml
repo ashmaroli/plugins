@@ -1,0 +1,40 @@
+---
+name: jekyll-minifier
+downloads: 29901
+version: 0.1.5
+version_downloads: 2860
+platform: ruby
+authors: DigitalSparky
+info: Jekyll Minifier using htmlcompressor for html, uglifier for js and css
+licenses:
+- GPL-3.0
+metadata: {}
+sha: 4c17c908c355c975add0d23ce9266e2cd3ec9935d10f5418a2cda5966548da79
+project_uri: https://rubygems.org/gems/jekyll-minifier
+gem_uri: https://rubygems.org/gems/jekyll-minifier-0.1.5.gem
+homepage_uri: http://github.com/digitalsparky/jekyll-minifier
+wiki_uri: 
+documentation_uri: http://www.rubydoc.info/gems/jekyll-minifier/0.1.5
+mailing_list_uri: 
+source_code_uri: https://github.com/digitalsparky/jekyll-minifier
+bug_tracker_uri: 
+changelog_uri: 
+dependencies:
+  development:
+  - name: jekyll-paginate
+    requirements: ">= 0"
+  - name: rake
+    requirements: "~> 10.4"
+  - name: redcarpet
+    requirements: ">= 0"
+  - name: rspec
+    requirements: "~> 2.7"
+  runtime:
+  - name: cssminify2
+    requirements: "~> 2.0"
+  - name: htmlcompressor
+    requirements: "~> 0.3"
+  - name: jekyll
+    requirements: "~> 3.5"
+  - name: uglifier
+    requirements: "~> 3.2"
