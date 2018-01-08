@@ -5,3 +5,6 @@ deploy:
   on:
     branch: fetches
   local_dir: _data
+
+notifications:
+  email: false
