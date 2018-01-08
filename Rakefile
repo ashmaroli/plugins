@@ -11,7 +11,7 @@ task :default do
     FileUtils.mkdir_p("_data/#{type}")
     list.each do |item|
       File.open("_data/#{type}/#{item}.yml", "wb") do |file|
-        file.puts open("https://rubygems.org/api/v1/gems/jekyll.yaml").read
+        file.puts open("https://rubygems.org/api/v1/gems/#{item}.yaml").read
       end
     end
   end
