@@ -6,12 +6,15 @@ require "open-uri"
 require "safe_yaml"
 
 task :default do
-  data = SafeYAML.load_file("_data/entries.yml")
-  data.each do |type, list|
+  entries = SafeYAML.load_file("_data/entries.yml")
+  entries.each do |type, list|
     FileUtils.mkdir_p("_data/#{type}")
     list.each do |item|
-      File.open("_data/#{type}/#{item}.yml", "wb") do |file|
-        file.puts open("https://rubygems.org/api/v1/gems/#{item}.yaml").read
+      begin
+      data = open("https://rubygems.org/api/v1/gems/#{item}.yaml").read
+      File.open("_data/#{type}/#{item}.yml", "wb") { |file| file.puts data }
+      rescue OpenURI::HTTPError
+        next
       end
     end
   end
