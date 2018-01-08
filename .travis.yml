@@ -4,3 +4,4 @@ deploy:
   github_token: $GITHUB
   on:
     branch: fetches
+  local_dir: _data
